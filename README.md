@@ -1,6 +1,10 @@
 # josemlwdf
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=josemlwdf&show_icons=true&theme=chartreuse-dark&show=reviews,discussions_started,discussions_answered,prs_merged)](https://github.com/josemlwdf/github-readme-stats&show_icons=true&theme=chartreuse-dark&show=reviews,prs_merged)
-
+<a href="https://github.com/josemlwdf/github-readme-stats">
+  <img alt="My Stats" src="https://github-readme-stats.vercel.app/api?username=josemlwdf&show_icons=true&theme=chartreuse-dark"/>
+</a>k
+<a href="https://github.com/josemlwdf/convoychat">
+  <img alt="My Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=josemlwdf&show_icons=true&theme=chartreuse-dark&size_weight=0.5&count_weight=0.5&layout=compact"/>
+</a>
 
 **josemlwdf/josemlwdf** is a ✨ _special_ ✨ repository.
